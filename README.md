@@ -1,7 +1,8 @@
 <b>Unity 3D, C# 포트폴리오</b>
 - ppt에 게임 설명 존재(HumanAdventure.pptx)
 - 플레이 영상 링크: https://youtu.be/AxhJcbe0hos
-- 전체파일 링크 : http://naver.me/FwStBU2i <br/><br/>
+- 전체 파일 링크 : http://naver.me/FwStBU2i
+- 유니티 버전 : 2022.3.8f1 LTS<br/><br/>
 <b>게임 개요</b>
 - 이름 : Human Adventure
 - 장르 : RPG, 핵 앤 슬래시
